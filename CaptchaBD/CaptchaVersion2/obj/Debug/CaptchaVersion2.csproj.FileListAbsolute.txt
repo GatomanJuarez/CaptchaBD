@@ -1,0 +1,23 @@
+c:\users\jeobal\documents\visual studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\bin\Debug\CaptchaVersion2.exe.config
+c:\users\jeobal\documents\visual studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\bin\Debug\CaptchaVersion2.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\bin\Debug\CaptchaVersion2.pdb
+c:\users\jeobal\documents\visual studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.Form1.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.Properties.Resources.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.csproj.GenerateResource.Cache
+c:\users\jeobal\documents\visual studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.pdb
+c:\users\jeobal\documents\visual studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.csprojResolveAssemblyReference.cache
+C:\Users\jeobal\Desktop\CaptchaVersion2\CaptchaVersion2\bin\Debug\CaptchaVersion2.exe.config
+C:\Users\jeobal\Desktop\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.exe
+C:\Users\jeobal\Desktop\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.pdb
+C:\Users\jeobal\Desktop\CaptchaVersion2\CaptchaVersion2\bin\Debug\CaptchaVersion2.exe
+C:\Users\jeobal\Desktop\CaptchaVersion2\CaptchaVersion2\bin\Debug\CaptchaVersion2.pdb
+C:\Users\jeobal\Desktop\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.csprojResolveAssemblyReference.cache
+C:\Users\jeobal\Desktop\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.Form1.resources
+C:\Users\jeobal\Desktop\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.Properties.Resources.resources
+C:\Users\jeobal\Desktop\CaptchaVersion2\CaptchaVersion2\obj\Debug\CaptchaVersion2.csproj.GenerateResource.Cache
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\bin\Debug\MySql.Data.dll
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\CaptchaVersion2\CaptchaVersion2\bin\Debug\MySql.Data.xml
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\CaptchaBD\CaptchaVersion2\bin\Debug\CaptchaVersion2.exe.config
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\CaptchaBD\CaptchaVersion2\obj\Debug\CaptchaVersion2.exe
+C:\Users\jeobal\Documents\Visual Studio 2015\Projects\CaptchaBD\CaptchaVersion2\obj\Debug\CaptchaVersion2.pdb
